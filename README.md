@@ -61,36 +61,7 @@ Bot ayarlarını aşağıdaki dosyalardan yapılandırabilirsiniz:
 - `config/logging.json`: Log sistemi ayarları
 - `config/banned_words.json`: Yasaklı kelimeler
 
-## 📚 Slash Komutları
-
-### Moderasyon Komutları
-- `/warn`: Kullanıcı uyar
-- `/kick`: Kullanıcı at
-- `/ban`: Kullanıcı yasakla
-- `/mute`: Kullanıcı sustur
-- `/antiraid`: Anti-raid ayarları
-
-### Ekonomi Komutları
-- `/balance`: Para durumu
-- `/work`: Çalışarak para kazan
-- `/daily`: Günlük ödül
-- `/shop`: Mağaza
-- `/market`: Pazar yeri
-
-### Profil Komutları
-- `/profile`: Profil görüntüle
-- `/level`: Seviye bilgisi
-- `/tasks`: Günlük görevler
-- `/achievements`: Başarımlar
-
-### Yardımcı Komutlar
-- `/translate`: Metin çevir
-- `/poll`: Anket oluştur
-- `/crypto`: Kripto fiyatları
-- `/currency`: Döviz kurları
-
-
-Not: Toplam 40 dan fazla Komut Vardır. Ve Daha Fazla Küfür Engellemek İçin config Klasöründeki banned_words.json dosyasına daha çok küfür ekleyebilirsiniz.
+Not: Toplam 40 dan fazla discord slash Komutu Vardır. Ve Daha Fazla Küfür Engellemek İçin config Klasöründeki banned_words.json dosyasına daha çok küfür ekleyebilirsiniz.
 
 ## 🤝 Katkıda Bulunma
 
